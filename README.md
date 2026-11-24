@@ -1,5 +1,7 @@
 # 👋 Joel Daniel | Personal Portfolio
 
+<img width="1920" height="1034" alt="image" src="https://github.com/user-attachments/assets/398fa7a5-7d0b-4ecc-8dd8-3b5e8734c0bf" />
+
 Welcome to my personal portfolio repository!
 
 This website showcases my background, technical skills, projects, academic journey, and contact information. It represents my learning journey and growing interest in technology and web development.
